@@ -6,11 +6,6 @@ It is my first Python project that uses an AI agent to automate tasks. The proje
 Project fallows tutorial:
 https://www.youtube.com/watch?v=bTMPwUgLZf0
 
-## Installation
-Clone the repository and install the dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## Virtual Environment
 
@@ -29,3 +24,10 @@ Install dependencies into the virtual environment:
 
 1. Activate the virtual environment.
 2. Run the following command: ```pip install -r requirements.txt```
+
+## Setup
+
+Set environment variables:
+- AZURE_OPENAI_API_KEY
+- OPENAI_API_VERSION
+- AZURE_OPENAI_ENDPOINT
